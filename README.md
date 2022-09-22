@@ -1,4 +1,4 @@
-# constrained-code-switch-MT
+# Code-switching Translation with Constrained Decoding.
 
 This repository contains Marian NMT beam search code that supports decoding constrained to source sentence(s). During decoding, the output vocabulary is restricted to the tokens that appear in the input source(s).
 
